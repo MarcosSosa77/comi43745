@@ -17,4 +17,9 @@ public class test: MonoBehaviour
     {
 	Debug.Log("Holaaa");
     }
+
+    void MovimientoJugador()
+    {
+        Debug.Log("en este metodo el jugador se mueve mejor que los de assasins creed");
+    }
 }
