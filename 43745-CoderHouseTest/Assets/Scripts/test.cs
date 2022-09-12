@@ -22,4 +22,9 @@ public class test: MonoBehaviour
     {
         Debug.Log("en este metodo el jugador se mueve mejor que los de assasins creed");
     }
+
+    void MovimientoAvanzadoPersonaje()
+    {
+        Debug.Log("en este metodo / script acabo de mejorar los movimientos");
+    }
 }
